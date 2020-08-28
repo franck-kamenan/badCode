@@ -1,0 +1,9 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(›°ö²ûÿÿÿÿ
+o
+java:S1104"RMake height a static final constant or non-public and provide accessors if needed.(ñ½8ÄĞ‡‰Á.
+e
+java:S2184
+"HCast one of the operands of this multiplication operation to a "double".(ûÉÖ8›ªŠ‰Á.
+n
+java:S1104"QMake width a static final constant or non-public and provide accessors if needed.(øÂ½8ÄĞ‡‰Á.

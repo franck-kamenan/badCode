@@ -1,0 +1,11 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(À¬È·8¼Ü¦µÁ.
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ8¾¤éµÁ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ó®¤¹8ùÎ®µÁ.
+T	java:S106"9Replace this use of System.out or System.err by a logger.(“ë‰88†ò½µÁ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Äðÿì8ÙÉø´Á.
+U	java:S106$"9Replace this use of System.out or System.err by a logger.(èŠË…8ôþãµÁ.
+U	java:S106!"9Replace this use of System.out or System.err by a logger.(êž¬‡8ï«ÌµÁ.
+P
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8â·ô´Á.
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(–òó¼úÿÿÿÿ8ø¡áµÁ.

@@ -1,0 +1,12 @@
+
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8·“óáÀ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¿¡Õİ8ÔªíáÀ.
+[
+java:S1854"?Remove this useless assignment to local variable "streamHello".(ƒ’‡]8üîÑâÀ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ8øıåâÀ.
+L
+java:S1481"0Remove this unused "streamHello" local variable.(ƒ’‡]8üîÑâÀ.
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(âè§¡8ÎŸÌÿÀ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Î×‹¹øÿÿÿÿ8©¤âÀ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(úí’Ãûÿÿÿÿ8Ó°ÛâÀ.

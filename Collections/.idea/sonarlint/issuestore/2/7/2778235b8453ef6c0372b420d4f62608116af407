@@ -1,0 +1,13 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ8øÂóÕÁ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(øËã©ıÿÿÿÿ8ŠòÇÕÁ.
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(éïòøÿÿÿÿ8ÎŒşÕÁ.
+j
+java:S1192
+"HDefine a constant instead of duplicating this literal "England" 3 times.(„ÛÒ‡øÿÿÿÿ8ÃêÕÁ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(øËã©ıÿÿÿÿ8§‡ìÕÁ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(»í‰Õ8ĞÏíÕÁ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(øËã©ıÿÿÿÿ8œ’éÕÁ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ8±ÈñÕÁ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(‡ÉĞÏ8À÷ãÕÁ.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ƒåËí

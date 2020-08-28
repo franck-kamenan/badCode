@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/src/be/intecbrussel/hoofdstuk10/polymorfismeInEenAbstracteKlasse" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/be/intecbrussel/hoofdstuk13" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/be/intecbrussel/hoofdstuk13/fly" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/be/intecbrussel/hoofdstuk14/opdracht1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/be/intecbrussel/javaAbstraction" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/be/intecbrussel/javaClassAttributes" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/be/intecbrussel/javaClassMethods" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/be/intecbrussel/javaConstructors" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/be/intecbrussel/javaDate" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/be/intecbrussel/javaEncapsulation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/be/intecbrussel/javaEnums" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/be/intecbrussel/javaInheritance" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/be/intecbrussel/javaInnerClasses" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/be/intecbrussel/javaInput" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/be/intecbrussel/javaInterface" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/be/intecbrussel/javaPolymorphism" vcs="Git" />
+  </component>
+</project>

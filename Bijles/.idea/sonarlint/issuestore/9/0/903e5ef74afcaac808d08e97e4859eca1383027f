@@ -1,0 +1,8 @@
+
+U	java:S106
+"9Replace this use of System.out or System.err by a logger.(©Úáù8ù„¶¸À.
+e
+java:S1214"CMove constants defined in this interfaces to another class or enum.(ğ ™¬şÿÿÿÿ8Šµò·À.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(²Óşº8ôÈÜ¸À.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¾á÷øÿÿÿÿ8ˆ‰Ó¸À.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(›êº¬8×Ü÷·À.

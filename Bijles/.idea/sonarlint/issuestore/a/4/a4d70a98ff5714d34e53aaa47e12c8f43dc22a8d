@@ -1,0 +1,8 @@
+
+O
+java:S1128"-Remove this unused import 'java.util.Random'.(èøÉ›ùÿÿÿÿ8ñçâ¬Á.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(™³ê˜üÿÿÿÿ8¯Îý¬Á.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(²þ¨¿úÿÿÿÿ8ñçâ¬Á.
+B
+java:S2129	" Remove this "String" constructor(ô’Œßùÿÿÿÿ8ñçâ¬Á.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(š´†µøÿÿÿÿ8ˆ×ã¬Á.

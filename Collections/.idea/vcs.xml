@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/src/be/intecbrussel/arrayList" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/be/intecbrussel/hashMap" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/be/intecbrussel/hashSet" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/be/intecbrussel/iterator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/be/intecbrussel/linkedList" vcs="Git" />
+  </component>
+</project>

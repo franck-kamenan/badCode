@@ -1,0 +1,12 @@
+
+U	java:S106
+"9Replace this use of System.out or System.err by a logger.(­’òç8ú”„‹Á.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ë¦Ûèùÿÿÿÿ8´Ÿ¦‹Á.
+X	java:S125"<This block of commented-out lines of code should be removed.(ÍèÔÔ8ëööÁ.
+h
+java:S1192
+"KDefine a constant instead of duplicating this literal " and W is " 3 times.(­’òç8´Ÿ¦‹Á.
+c
+java:S1192
+"FDefine a constant instead of duplicating this literal "H is " 3 times.(­’òç8´Ÿ¦‹Á.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ŠÌéá8´Ÿ¦‹Á.
